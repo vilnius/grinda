@@ -1,0 +1,30 @@
+==================================================
+Product Name      : Internet Explorer
+Product ID        : 00371-OEM-9044731-92244
+Product Key       : YF67R-B6Y3X-Q9G3X-R7224-TDRBT
+Installation Folder : 
+Service Pack      : 
+Computer Name     : 108-PV02
+Modified Time     : 2011.06.06 06:01:09
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Single Image 2010
+Product ID        : 82503-237-1208827-11288
+Product Key       : H4BJX-C8H3Q-K2TY7-4QGYP-GJ3RJ
+Installation Folder : C:\Program Files\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : 108-PV02
+Modified Time     : 2013.11.12 11:41:42
+==================================================
+
+==================================================
+Product Name      : Windows 7 Professional
+Product ID        : 00371-OEM-9044731-92244
+Product Key       : YF67R-B6Y3X-Q9G3X-R7224-TDRBT
+Installation Folder : C:\Windows
+Service Pack      : Service Pack 1
+Computer Name     : 108-PV02
+Modified Time     : 2015.11.12 04:43:54
+==================================================
+
